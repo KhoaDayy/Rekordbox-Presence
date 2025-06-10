@@ -27,7 +27,7 @@ This lightweight background utility updates your **Discord Rich Presence** with 
 
 ## 🚀 How to Use
 
-1. Download the latest release `.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) page
+1. Download the latest release `.exe` from the [Releases](https://github.com/KhoaDayy/Rekordbox-Presence/releases) page
 3. Run the `.exe` – it will:
    - Connect to Discord
    - Show up in your system tray
@@ -38,7 +38,7 @@ This lightweight background utility updates your **Discord Rich Presence** with 
 
 ## 📥 Download
 
-👉 Grab the latest `.exe` from the [Releases](https://github.com/yourusername/yourrepo/releases) tab.
+👉 Grab the latest `.exe` from the [Releases](https://github.com/KhoaDayy/Rekordbox-Presence/releases) tab.
 
 ---
 
