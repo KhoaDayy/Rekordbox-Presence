@@ -2,6 +2,8 @@
 
 This lightweight background utility updates your **Discord Rich Presence** with the most recently played track from **Rekordbox**, and runs silently in the **system tray**.
 
+![preview](preview.png)
+
 ---
 
 ## 💡 Features
